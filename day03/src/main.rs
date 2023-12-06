@@ -1,8 +1,5 @@
 #![allow(dead_code)]
 
-use itertools::Itertools;
-use std::num::Wrapping;
-
 use common::AnyResult;
 
 #[derive(Debug)]
